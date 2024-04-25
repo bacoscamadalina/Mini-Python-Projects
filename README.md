@@ -8,7 +8,7 @@ This project implements a simple digital clock using Python. It displays the cur
 The Hangman Game is a classic word guessing game. This project allows players to guess letters to uncover a hidden word within a limited number of attempts.
 
 ## Water Meter (WaterMeter.py)
-The Water Meter project is a utility for tracking water consumption. It calculates and displays water usage based on input data such as flow rate and duration.
+The Water Meter project is a utility for for managing readings of hot and cold water meters for a family.
 
 ## Weather Project (Weather.py)
 The Weather project utilizes APIs to fetch and display current weather information. It provides details such as temperature, humidity, and wind speed for a specified location.
